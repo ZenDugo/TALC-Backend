@@ -1,0 +1,24 @@
+{
+	"name": "talc-backend",
+	"version": "1.0.0",
+	"description": "TALC-Backend",
+	"main": "server.js",
+	"scripts": {
+		"dev": "nodemon server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ZenDugo/TALC-Backend.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/ZenDugo/TALC-Backend/issues"
+	},
+	"homepage": "https://github.com/ZenDugo/TALC-Backend#readme",
+	"dependencies": {
+		"express": "^4.17.3",
+		"nodemon": "^2.0.15"
+	}
+}
